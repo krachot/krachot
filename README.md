@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+I'm **Matthieu Bozec**, developer making cool projects for the web at [4h04](https://4h04.io/).
 
 <!--
 **krachot/krachot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
